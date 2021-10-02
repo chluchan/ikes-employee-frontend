@@ -4,6 +4,12 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
+.DS_Store
+
+#angular
+src/main/webapp/node_modules
+src/main/webapp/package-lock.json
+src/main/webapp/dist
 
 ### STS ###
 .apt_generated
